@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "public_sentiment_policy_interaction",
+        "Title": "Analyzing the Impact of Public Sentiment on Climate Policy Effectiveness",
+        "Experiment": "Utilize survey data from reputable organizations and social media sentiment analysis (e.g., Twitter data) to quantify public sentiment regarding climate change before and after the implementation of carbon reduction policies. Enhance the DID model to include an interaction term between measured public sentiment and policy implementation. Analyze results to determine how varying levels of public engagement correlate with the effectiveness of emissions reduction efforts, potentially using regression techniques for robustness.",
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 9
+    }
+]

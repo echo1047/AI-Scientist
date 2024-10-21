@@ -62,6 +62,9 @@ def parse_arguments():
             "vertex_ai/claude-3-5-sonnet@20240620",
             "vertex_ai/claude-3-sonnet@20240229",
             "vertex_ai/claude-3-haiku@20240307",
+            # adding more models
+            "gpt-4o-mini-2024-07-18",
+            "gpt-4o-2024-08-06",
         ],
         help="Model to use for AI Scientist.",
     )
@@ -343,6 +346,12 @@ if __name__ == "__main__":
         print(f"Using OpenAI API with model {args.model}.")
         client_model = "gpt-4o-2024-05-13"
         client = openai.OpenAI()
+    elif args.model == "gpt-4o-mini-2024-07-18":
+        import openai
+
+        print(f"Using OpenAI API with model {args.model}.")
+        client_model = "gpt-4o-mini-2024-07-18"
+        client = openai.OpenAI()
     elif args.model == "deepseek-coder-v2-0724":
         import openai
 
@@ -363,7 +372,7 @@ if __name__ == "__main__":
     else:
         raise ValueError(f"Model {args.model} not supported.")
 
-    base_dir = osp.join("templates", args.experiment)
+    base_dir = osp.join("templates", args.experiment) #?
     results_dir = osp.join("results", args.experiment)
     ideas = generate_ideas(
         base_dir,

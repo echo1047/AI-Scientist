@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "policy_interaction_effects",
+        "Title": "Evaluating the Interaction Effects of Selected Climate Policies on Carbon Emissions Reduction",
+        "Experiment": "Modify the existing DID model to include interaction terms specifically for key policies such as carbon pricing and renewable energy incentives. Analyze the dataset to identify countries implementing these policies together and compare their emissions reductions to a control group of countries that do not implement either policy. Estimate models that assess the effectiveness of this combination in reducing carbon emissions. Use statistical tests to validate findings and derive actionable insights.",
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 8,
+        "novel": true
+    }
+]

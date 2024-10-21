@@ -122,7 +122,7 @@ def generate_ideas(
                     code=code,
                     prev_ideas_string=prev_ideas_string,
                     num_reflections=num_reflections,
-                ),
+                ), # msg
                 client=client,
                 model=model,
                 system_message=idea_system_prompt,

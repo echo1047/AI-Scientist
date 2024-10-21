@@ -1,0 +1,1 @@
+python launch_scientist.py --model "gpt-4o-mini-2024-07-18" --experiment nanoGPT_lite --num-ideas 1 --skip-novelty-check
