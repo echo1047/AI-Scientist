@@ -128,7 +128,7 @@ def generate_ideas(
                 system_message=idea_system_prompt,
                 msg_history=msg_history,
             )
-            ## PARSE OUTPUT
+            ## PARSE OUTPUT #* 解析输出
             json_output = extract_json_between_markers(text)
             assert json_output is not None, "Failed to extract JSON from LLM output"
             print(json_output)
