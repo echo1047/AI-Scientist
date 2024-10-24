@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "digital_manufacturing_emissions_case_study",
+        "Title": "A Case Study Approach to Evaluating Digital Transformation's Impact on Carbon Emissions in China's Manufacturing Sector",
+        "Experiment": "Select a few representative manufacturing companies in China that have adopted digital technologies. Employ a mixed-methods approach, collecting quantitative data on carbon emissions and productivity metrics before and after technology adoption, complemented by qualitative case studies through interviews with key stakeholders. Analyze the data to identify correlations and extract insights on best practices.",
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 9,
+        "novel": true
+    },
+    {
+        "Name": "targeted_regional_policy_comparison",
+        "Title": "Comparative Analysis of Regional Policies on Carbon Emissions and Productive Forces in Select Chinese Provinces",
+        "Experiment": "Identify three to four provinces in China with varying industrial focuses and sustainability initiatives. Conduct a comparative analysis of carbon emissions data and productivity metrics pre- and post-policy implementation within these provinces. Use a mixed-methods approach, combining quantitative data analysis with qualitative interviews of local stakeholders to evaluate perceptions and effectiveness of policies. The goal is to identify which strategies were most successful and the barriers faced in each context, providing a framework for future policy recommendations.",
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 9,
+        "novel": false
+    }
+]

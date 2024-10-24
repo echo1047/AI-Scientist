@@ -1,0 +1,157 @@
+[
+    {
+        "Name": "sector_impact_analysis",
+        "Title": "Evaluating the Impact of Innovative Technologies on Carbon Emissions in China",
+        "Experiment": {
+            "Overview": "Develop a streamlined simulation model to analyze the carbon emissions impact of key innovative technologies in renewable energy and electric vehicles in China.",
+            "Functions": [
+                "add_technology_impact(technology, sector, emission_factor)",
+                "simulate_emission_reduction(sector, year_range)",
+                "identify_adoption_barriers(sector, technology)",
+                "compile_policy_recommendations(emission_results)"
+            ],
+            "Datasets": "Utilize existing data on carbon emissions by sector and current adoption rates of solar PV and EV technologies in China.",
+            "Results": "Generate actionable reports that outline emissions reduction potentials, barriers to technology adoption, and tailored policy recommendations for stakeholders."
+        },
+        "Interestingness": 8,
+        "Feasibility": 8,
+        "Novelty": 9,
+        "novel": false
+    },
+    {
+        "Name": "comparative_manufacturing_circular_economy_analysis",
+        "Title": "Comparative Analysis of Circular Economy Practices in China's Manufacturing Sector for Carbon Emission Reduction",
+        "Experiment": {
+            "Overview": "Develop a comprehensive framework to assess and compare the impact of circular economy practices across various subsectors of China's manufacturing industry on carbon emissions.",
+            "Functions": [
+                "analyze_circular_practice_impact_by_subsector(emission_factor)",
+                "simulate_emission_reduction_with_circularity_by_subsector(year_range)",
+                "identify_circularity_barriers_across_subsectors()",
+                "compile_policy_recommendations_for_subsector_circularity(emission_results)"
+            ],
+            "Datasets": "Utilize existing data on carbon emissions across different manufacturing subsectors, adoption rates of circular economy practices, and case studies from successful circular initiatives in each subsector.",
+            "Results": "Generate detailed reports that compare emissions reduction potentials of circular economy practices in various manufacturing subsectors, identify common barriers, and provide tailored policy recommendations for enhancing sustainability."
+        },
+        "Interestingness": 10,
+        "Feasibility": 8,
+        "Novelty": 9,
+        "novel": false
+    },
+    {
+        "Name": "digital_transformation_emission_analysis",
+        "Title": "Assessing the Impact of Digital Transformation on Carbon Emissions in China's Manufacturing and Logistics Sectors",
+        "Experiment": {
+            "Overview": "Create a focused framework to evaluate how digital technologies influence carbon emissions specifically in China's manufacturing and logistics sectors.",
+            "Functions": [
+                "analyze_digital_technology_impact(sector, emission_factor)",
+                "simulate_emission_reduction_with_digitalization(sector, year_range)",
+                "evaluate_adoption_effectiveness(sector)",
+                "compile_policy_recommendations_based_on_findings(emission_results)"
+            ],
+            "Datasets": "Utilize existing data on carbon emissions specific to manufacturing and logistics, alongside current adoption rates of digital technologies and relevant industry case studies.",
+            "Results": "Generate detailed reports that elucidate the relationship between digital transformation and emissions reduction in the selected sectors, identify barriers to effective adoption, and provide tailored policy recommendations."
+        },
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 10,
+        "novel": false
+    },
+    {
+        "Name": "regional_agricultural_emission_analysis",
+        "Title": "Assessing the Regional Impact of Innovative Agricultural Practices on Carbon Emissions in China",
+        "Experiment": {
+            "Overview": "Develop a framework to evaluate the impact of modern agricultural technologies on carbon emissions across various regions in China.",
+            "Functions": [
+                "evaluate_technology_impact_by_region(technology, region, emission_factor)",
+                "simulate_emission_reduction_with_technology_by_region(year_range, region)",
+                "identify_adoption_barriers_by_region(technology, region)",
+                "generate tailored_policy_recommendations(emission_results, region)"
+            ],
+            "Datasets": "Utilize existing data on regional carbon emissions in agriculture, technology adoption rates, and case studies of innovative practices in different provinces.",
+            "Results": "Create comprehensive reports that quantify emissions reduction potential per region, highlight barriers to adoption, and recommend policies for fostering sustainable agricultural practices tailored to regional contexts."
+        },
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 10,
+        "novel": false
+    },
+    {
+        "Name": "urbanization_impact_on_emission_analysis",
+        "Title": "Assessing the Impact of Urbanization Types on Carbon Emissions in China Through Innovative Productive Forces",
+        "Experiment": {
+            "Overview": "Create a focused framework to evaluate the impact of specific types of urbanization on carbon emissions in relation to the adoption of innovative productive forces in China.",
+            "Functions": [
+                "analyze_urbanization_type_emission_impact(region, urbanization_type, emission_factor)",
+                "simulate_emission_trends_with_specific_urbanization(year_range, region, urbanization_type)",
+                "evaluate_adoption_of_innovative_forces_by_urbanization_type(region, urbanization_type)",
+                "compile targeted_policy_recommendations(emission_results)",
+                "integrate_case_studies_of_successful_and_unsuccessful_urbanization"
+            ],
+            "Datasets": "Utilize existing data on urbanization types, carbon emissions by region, and qualitative case studies of innovative productive forces adoption.",
+            "Results": "Produce detailed reports that investigate the relationship between urbanization types and emissions, highlight barriers to the adoption of innovative productive forces, and provide practical policy recommendations for promoting sustainable urban development."
+        },
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 10,
+        "novel": false
+    },
+    {
+        "Name": "energy_efficiency_comparative_analysis",
+        "Title": "Evaluating and Comparing the Impact of Energy Efficiency Improvements on Carbon Emissions in China's Manufacturing and Transportation Sectors",
+        "Experiment": {
+            "Overview": "Develop a comprehensive framework to assess and compare the effectiveness of energy efficiency improvements and their impact on carbon emissions in China's manufacturing and transportation sectors.",
+            "Functions": [
+                "analyze_energy_efficiency_impact(sector, emission_factor)",
+                "simulate_emission_reduction_with_efficiency_improvements(sector, year_range)",
+                "identify_barriers_to_energy_efficiency_adoption(sector)",
+                "compile_policy_recommendations_based_on_efficiency_results(emission_results)",
+                "compare_policy_effectiveness(sector_a, sector_b)"
+            ],
+            "Datasets": "Utilize existing data on carbon emissions, historical energy consumption, reported energy efficiency initiatives, and policy effectiveness evaluations specific to manufacturing and transportation.",
+            "Results": "Generate comprehensive reports that quantify the emissions reduction potential from energy efficiency improvements, compare the effectiveness of different policies, identify barriers to adoption, and provide actionable policy recommendations for stakeholders."
+        },
+        "Interestingness": 9,
+        "Feasibility": 9,
+        "Novelty": 10,
+        "novel": false
+    },
+    {
+        "Name": "regional_public_perception_analysis",
+        "Title": "Comparative Analysis of Public Perception on Sustainable Innovations and Its Impact on Carbon Emissions in China",
+        "Experiment": {
+            "Overview": "Assess how public attitudes towards sustainable innovations differ across various regions in China and their correlation with carbon emissions reduction efforts.",
+            "Functions": [
+                "survey_public_attitudes_by_region(technology)",
+                "correlate_public_perception_with_emission_reduction_by_region(year_range)",
+                "identify regional barriers to public support(technology)",
+                "compile policy recommendations based on regional public feedback(emission_results)",
+                "conduct_case_studies_to enrich quantitative findings"
+            ],
+            "Datasets": "Utilize existing data on carbon emissions, regional public opinion surveys regarding green technologies, and case studies of successful/unsuccessful regional policies.",
+            "Results": "Generate comprehensive reports that analyze the relationship between public perception and policy effectiveness across different regions, identifying regional barriers and providing tailored recommendations."
+        },
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 9,
+        "novel": false
+    },
+    {
+        "Name": "regional_consumer_sustainability_analysis",
+        "Title": "Evaluating the Impact of Regional Consumer Behavior on Carbon Emissions Through Innovative Productive Forces in China",
+        "Experiment": {
+            "Overview": "Develop a framework to analyze the relationship between regional consumer adoption of sustainable products and services and carbon emissions in China, with a focus on innovative productive forces.",
+            "Functions": [
+                "analyze_regional_consumer_behavior_impact(emission_factor)",
+                "simulate_emission_reduction_with_regional_sustainable_consumption(year_range)",
+                "identify_barriers_to_regional_consumptive_adoption(technology)",
+                "compile tailored_policy_recommendations_based_on_regional_consumer_findings(emission_results)"
+            ],
+            "Datasets": "Utilize existing data on regional consumer purchasing behavior, carbon emissions linked to consumption patterns, and case studies of successful sustainable product adoption across different provinces.",
+            "Results": "Generate detailed reports that quantify the impact of regional consumer behavior on emissions, identify barriers to sustainable consumption in different areas, and provide actionable policy recommendations for enhancing regional consumer adoption of low-carbon alternatives."
+        },
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 9,
+        "novel": true
+    }
+]

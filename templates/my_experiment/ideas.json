@@ -1,10 +1,20 @@
 [
     {
-        "Name": "public_sentiment_policy_interaction",
-        "Title": "Analyzing the Impact of Public Sentiment on Climate Policy Effectiveness",
-        "Experiment": "Utilize survey data from reputable organizations and social media sentiment analysis (e.g., Twitter data) to quantify public sentiment regarding climate change before and after the implementation of carbon reduction policies. Enhance the DID model to include an interaction term between measured public sentiment and policy implementation. Analyze results to determine how varying levels of public engagement correlate with the effectiveness of emissions reduction efforts, potentially using regression techniques for robustness.",
+        "Name": "market_conditions_efficiency",
+        "Title": "Exploring the Impact of Key Market Conditions on Insurance Companies' Efficiency",
+        "Experiment": "1. Identify and select a limited number of key economic indicators (e.g., interest rates) and competitive factors (e.g., market concentration). 2. Collect and merge this data with the existing dataset of insurance companies. 3. Apply DEA models considering these market conditions as additional inputs to analyze their influence on efficiency scores. 4. Conduct correlation analysis to identify significant relationships between market conditions and efficiency. 5. Visualize results and summarize findings in a report.",
+        "Interestingness": 8,
+        "Feasibility": 8,
+        "Novelty": 8,
+        "novel": false
+    },
+    {
+        "Name": "esg_efficiency_analysis",
+        "Title": "Evaluating the Impact of Key ESG Factors on the Efficiency of Insurance Companies",
+        "Experiment": "1. Conduct a literature review to identify relevant ESG metrics (e.g., customer satisfaction ratings, community engagement scores). 2. Select 2-3 key metrics based on their significance in the industry. 3. Integrate these selected metrics into the existing dataset as additional outputs. 4. Apply DEA models (input-oriented) to compute efficiency scores with and without ESG factors. 5. Analyze changes in efficiency scores to assess the impact of ESG metrics. 6. Summarize findings in a report, highlighting insights into the relationship between ESG factors and operational efficiency and discussing potential implications for insurance companies.",
         "Interestingness": 9,
         "Feasibility": 8,
-        "Novelty": 9
+        "Novelty": 8,
+        "novel": false
     }
 ]
